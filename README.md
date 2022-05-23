@@ -12,7 +12,4 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
-#### Stats
- <p align="center">
-   <img src='https://github-readme-stats.vercel.app/api?username=kimjh0107&show_icons=true&theme=radical' height='200' width='450'>
-</p>
+
